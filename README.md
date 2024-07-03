@@ -1,1 +1,0 @@
-# Geradordesenha3C
